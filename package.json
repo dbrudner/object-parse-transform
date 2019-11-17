@@ -1,0 +1,28 @@
+{
+	"name": "object-parse-transformer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "node ./dev",
+		"start": "webpack"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/generator": "^7.7.2",
+		"@babel/preset-env": "^7.7.1",
+		"@babel/types": "^7.7.2",
+		"babel-loader": "^8.0.6",
+		"babel-traverse": "^6.26.0",
+		"babel-types": "^6.26.0",
+		"babylon": "^6.18.0",
+		"lodash": "^4.17.15",
+		"webpack": "^4.41.2",
+		"webpack-cli": "^3.3.10",
+		"@babel/core": "^7.7.2",
+		"babel": "^6.23.0"
+	}
+}
